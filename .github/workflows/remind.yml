@@ -2,7 +2,7 @@ name: Send Reminders
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # runs every 5 minutes
+    - cron: "0 15 * * 5"  # Fridays at 4:00 PM UTC+1 (15:00 UTC)
   workflow_dispatch:        # allows manual trigger from GitHub UI
 
 jobs:
