@@ -1,12 +1,9 @@
 reminders:
-  - to: 
-    - michal.skvor@topmonks.com
-    - karel.zoha@topmonks.com
-    - tomas.ganaj@topmonks.com
-    - michal.velek@topmonks.com
-    - stepan.kylberger@topmonks.com
-    - adam.sommer@topmonks.com
+  - to:
+      - michal.skvor@topmonks.com
+      - karel.zoha@topmonks.com
+      - tomas.ganaj@topmonks.com
+      - michal.velek@topmonks.com
+      - stepan.kylberger@topmonks.com
+      - adam.sommer@topmonks.com
     message: "Vyplň si time-shit, prosím!"
-
-  # - to: another@example.com
-  #  message: "HEY"
