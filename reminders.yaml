@@ -1,0 +1,8 @@
+reminders:
+  - to: someone@example.com
+    message: "HEY"
+    time: "09:00"  # UTC — must be a multiple of 5 minutes (09:00, 09:05, 09:30...)
+
+  - to: another@example.com
+    message: "HEY"
+    time: "14:30"  # UTC
