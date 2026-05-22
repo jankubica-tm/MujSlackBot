@@ -1,6 +1,6 @@
 reminders:
   - to: someone@example.com
-    message: "HEY"
+    message: "Vyplň si time-shit, prosím!"
     time: "09:00"  # UTC — must be a multiple of 5 minutes (09:00, 09:05, 09:30...)
 
   - to: another@example.com
